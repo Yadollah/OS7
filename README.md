@@ -1,2 +1,23 @@
-# OS7
-OS Lab's Seventh Assignment
+### &emsp; &emsp; به نام خدا ###
+### &emsp; یدالله حبیب کاظمی ###
+### تمرین 7 آزمایشگاه سیستم های عامل ###
+<br>
+
+__سوال 1 : __
+
+Answer :
+<br><br>
+
+__سوال 2 : __
+
+Answer :
+<br><br>
+
+__سوال 3 : __
+
+Answer :
+<br><br>
+
+__سوال 4 : __
+
+Answer :
